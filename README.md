@@ -1,2 +1,2 @@
 # gitin
-this is git and github
+this is git and github .
